@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+
+<html lang="es">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>PÁGINA WEB DE SARA ALBA RESINO</title>
+
+
+</head>
+
+<body>
+
+<header>
+<h1>
+  
+<section>
+  
+<main class="contenedor-flex">
+<section class="caja">
+<h3>
+¿Quienes somos?
+</5>  
+</section>
+<section class="caja"><iframe src="https://drive.google.com/file/d/1YJUw74296wSQhccb-6itInjYg1DogmqU/preview" width="320" height="240" allow="autoplay"></iframe></section>
+</main>
+ 
+</section>
+  
+</h1>
+  
+
+</header>
+
+
+<nav>
+
+<ul>
+
+<li><a href="https://codepen.io/saraar222/pen/mydQVrR">Índice</a></li>
+
+</ul>
+
+</nav>
+ 
+<main>
+
+<div class="section">
+
+<p>Bienvenidos a la Organización S, una empresa innovadora dedicada a la investigación genética avanzada. En nuestra misión de mejorar la salud global, nos enfocamos en estudiar las mutaciones genéticas con el objetivo de identificar sus posibles beneficios y aprovechar estos hallazgos para desarrollar soluciones efectivas contra enfermedades provocadas por el cambio climático.</p>
+  <h2> ¿Qué hacemos? </h2> 
+<p>  
+Nos especializamos en la investigación de mutaciones genéticas, un campo de vanguardia que nos permite entender cómo los cambios en el ADN pueden ofrecer ventajas adaptativas. Estas mutaciones, a menudo vistas como elementos de la evolución natural, pueden ser la clave para desarrollar tratamientos y terapias innovadoras contra enfermedades emergentes, muchas de las cuales están siendo aceleradas por los efectos del cambio climático.
+
+Nuestro equipo de científicos y genetistas trabaja en estrecha colaboración con expertos en biotecnología y medicina para explorar cómo estos mecanismos pueden ser utilizados para fortalecer la resistencia del cuerpo humano a nuevas enfermedades, mejorar la respuesta inmunológica y crear curas que ayuden a mitigar el impacto de las alteraciones medioambientales en nuestra salud.</p>
+  
+<h2> ¿Por qué elegirnos? </h2>
+  
+<p> Investigación de vanguardia: Utilizamos las últimas tecnologías en secuenciación genética y análisis de datos para descubrir y comprender las mutaciones genéticas que podrían transformar el tratamiento de enfermedades.
+</p>
+<p>
+Compromiso con la salud global: Nos enfocamos en enfermedades relacionadas con el cambio climático, un desafío creciente para la humanidad, y buscamos soluciones a través de la biotecnología y la genética.
+</p>
+<p>
+Innovación constante: La ciencia genética es un campo en constante evolución. Estamos comprometidos con la innovación y el desarrollo de terapias que puedan transformar la medicina moderna.</p>
+
+<div class="section">
+
+<p1>
+  
+</p1>
+
+<h6>Dinero obtenido al año</h6>
+
+<table>
+        <thead>
+            <tr>
+                <th>Año</th>
+                <th>Dinero obtenido</th>
+              
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                
+                <td>2018</td>
+                <td>2 millones</td>
+                
+            </tr>
+            <tr>
+                
+                <td>2020</td>
+                <td>20 millones</td>
+                
+            </tr>
+            <tr>
+                <td>2022</td>
+                <td>100 millones</td>
+               
+            </tr>
+          
+            <tr>
+                <td>2024
+</td>
+                <td>500 millones</td>
+                
+               
+            </tr>
+        </tbody>
+        <tfoot>
+            
+        </tfoot>
+    </table>
+
+
+
+</main>
+
+
+</body>
+
+</html>
